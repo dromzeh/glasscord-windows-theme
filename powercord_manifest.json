@@ -1,0 +1,10 @@
+{
+    "name": "Glasscord Windows Theme",
+    "description": "Glasscords default theme modified for windows + no curved borders - for those too lazy to go into settings or download the whole glasscord repo",
+    "version": "0.1",
+    "author": "AryToNeX / dromzeh",
+    "license": "Apache-2.0",
+    "theme": "discord_example.theme.css",
+    "preview": [ "https://raw.githubusercontent.com/AryToNeX/Glasscord/master/images/preview_discord.png" ],
+	"consent": [ "ext_listing" ]
+}
